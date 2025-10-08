@@ -1,0 +1,2 @@
+# Mang
+Microfinance software
